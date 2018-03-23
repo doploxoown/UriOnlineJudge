@@ -1,0 +1,11 @@
+C:\Users\thifi\source\repos\1002-Area do Circulo\1002-Area do Circulo\bin\Debug\netcoreapp2.0\1002-Area do Circulo.deps.json
+C:\Users\thifi\source\repos\1002-Area do Circulo\1002-Area do Circulo\bin\Debug\netcoreapp2.0\1002-Area do Circulo.runtimeconfig.json
+C:\Users\thifi\source\repos\1002-Area do Circulo\1002-Area do Circulo\bin\Debug\netcoreapp2.0\1002-Area do Circulo.runtimeconfig.dev.json
+C:\Users\thifi\source\repos\1002-Area do Circulo\1002-Area do Circulo\bin\Debug\netcoreapp2.0\1002-Area do Circulo.dll
+C:\Users\thifi\source\repos\1002-Area do Circulo\1002-Area do Circulo\bin\Debug\netcoreapp2.0\1002-Area do Circulo.pdb
+C:\Users\thifi\source\repos\1002-Area do Circulo\1002-Area do Circulo\obj\Debug\netcoreapp2.0\1002-Area do Circulo.csprojResolveAssemblyReference.cache
+C:\Users\thifi\source\repos\1002-Area do Circulo\1002-Area do Circulo\obj\Debug\netcoreapp2.0\1002-Area do Circulo.csproj.CoreCompileInputs.cache
+C:\Users\thifi\source\repos\1002-Area do Circulo\1002-Area do Circulo\obj\Debug\netcoreapp2.0\1002-Area do Circulo.AssemblyInfoInputs.cache
+C:\Users\thifi\source\repos\1002-Area do Circulo\1002-Area do Circulo\obj\Debug\netcoreapp2.0\1002-Area do Circulo.AssemblyInfo.cs
+C:\Users\thifi\source\repos\1002-Area do Circulo\1002-Area do Circulo\obj\Debug\netcoreapp2.0\1002-Area do Circulo.dll
+C:\Users\thifi\source\repos\1002-Area do Circulo\1002-Area do Circulo\obj\Debug\netcoreapp2.0\1002-Area do Circulo.pdb
