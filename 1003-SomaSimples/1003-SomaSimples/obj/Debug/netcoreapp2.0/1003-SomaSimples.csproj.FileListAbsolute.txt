@@ -1,0 +1,11 @@
+C:\Users\thifi\source\repos\1003-SomaSimples\1003-SomaSimples\bin\Debug\netcoreapp2.0\1003-SomaSimples.deps.json
+C:\Users\thifi\source\repos\1003-SomaSimples\1003-SomaSimples\bin\Debug\netcoreapp2.0\1003-SomaSimples.runtimeconfig.json
+C:\Users\thifi\source\repos\1003-SomaSimples\1003-SomaSimples\bin\Debug\netcoreapp2.0\1003-SomaSimples.runtimeconfig.dev.json
+C:\Users\thifi\source\repos\1003-SomaSimples\1003-SomaSimples\bin\Debug\netcoreapp2.0\1003-SomaSimples.dll
+C:\Users\thifi\source\repos\1003-SomaSimples\1003-SomaSimples\bin\Debug\netcoreapp2.0\1003-SomaSimples.pdb
+C:\Users\thifi\source\repos\1003-SomaSimples\1003-SomaSimples\obj\Debug\netcoreapp2.0\1003-SomaSimples.csprojResolveAssemblyReference.cache
+C:\Users\thifi\source\repos\1003-SomaSimples\1003-SomaSimples\obj\Debug\netcoreapp2.0\1003-SomaSimples.csproj.CoreCompileInputs.cache
+C:\Users\thifi\source\repos\1003-SomaSimples\1003-SomaSimples\obj\Debug\netcoreapp2.0\1003-SomaSimples.AssemblyInfoInputs.cache
+C:\Users\thifi\source\repos\1003-SomaSimples\1003-SomaSimples\obj\Debug\netcoreapp2.0\1003-SomaSimples.AssemblyInfo.cs
+C:\Users\thifi\source\repos\1003-SomaSimples\1003-SomaSimples\obj\Debug\netcoreapp2.0\1003-SomaSimples.dll
+C:\Users\thifi\source\repos\1003-SomaSimples\1003-SomaSimples\obj\Debug\netcoreapp2.0\1003-SomaSimples.pdb
