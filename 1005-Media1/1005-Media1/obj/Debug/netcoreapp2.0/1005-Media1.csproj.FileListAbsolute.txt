@@ -1,0 +1,11 @@
+C:\Users\thifi\source\repos\1005-Media1\1005-Media1\bin\Debug\netcoreapp2.0\1005-Media1.deps.json
+C:\Users\thifi\source\repos\1005-Media1\1005-Media1\bin\Debug\netcoreapp2.0\1005-Media1.runtimeconfig.json
+C:\Users\thifi\source\repos\1005-Media1\1005-Media1\bin\Debug\netcoreapp2.0\1005-Media1.runtimeconfig.dev.json
+C:\Users\thifi\source\repos\1005-Media1\1005-Media1\bin\Debug\netcoreapp2.0\1005-Media1.dll
+C:\Users\thifi\source\repos\1005-Media1\1005-Media1\bin\Debug\netcoreapp2.0\1005-Media1.pdb
+C:\Users\thifi\source\repos\1005-Media1\1005-Media1\obj\Debug\netcoreapp2.0\1005-Media1.csprojResolveAssemblyReference.cache
+C:\Users\thifi\source\repos\1005-Media1\1005-Media1\obj\Debug\netcoreapp2.0\1005-Media1.csproj.CoreCompileInputs.cache
+C:\Users\thifi\source\repos\1005-Media1\1005-Media1\obj\Debug\netcoreapp2.0\1005-Media1.AssemblyInfoInputs.cache
+C:\Users\thifi\source\repos\1005-Media1\1005-Media1\obj\Debug\netcoreapp2.0\1005-Media1.AssemblyInfo.cs
+C:\Users\thifi\source\repos\1005-Media1\1005-Media1\obj\Debug\netcoreapp2.0\1005-Media1.dll
+C:\Users\thifi\source\repos\1005-Media1\1005-Media1\obj\Debug\netcoreapp2.0\1005-Media1.pdb
